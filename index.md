@@ -1,13 +1,10 @@
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 -
 layout: home
 title: Hi, I'm Caroline
 ---
 
-#
-
-I’m a UX Researcher and Product Leader with 10 years of experience and an academic background in anthropology.
+# I’m a UX Researcher and Product Leader with 10 years of experience and an academic background in anthropology.
  
 In my career, I’ve:
 * built tools for New York Times journalists
