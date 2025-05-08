@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Hi, I'm Caroline
 ---
 
