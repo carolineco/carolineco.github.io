@@ -1,8 +1,8 @@
 ---
-title: Hi, I'm Caroline
+# Hi, I'm Caroline
 ---
 
-# I’m a UX Researcher and Product Leader with 10 years of experience and an academic background in anthropology.
+## I’m a UX Researcher and Product Leader with 10 years of experience and an academic background in anthropology.
  
 In my career, I’ve:
 * built tools for New York Times journalists
