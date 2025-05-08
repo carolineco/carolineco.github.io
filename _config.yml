@@ -1,6 +1,6 @@
 title: Caroline C-O
 description: Personal research portfolio
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
