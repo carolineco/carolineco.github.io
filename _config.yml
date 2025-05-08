@@ -1,6 +1,5 @@
 title: Caroline C-O
 description: Personal research portfolio
-
 remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-remote-theme
